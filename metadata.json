@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Ama - AI Companion",
+  "description": "A warm, conversational AI companion focused on AI and cybersecurity support.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
